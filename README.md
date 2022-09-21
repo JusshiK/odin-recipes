@@ -1,0 +1,1 @@
+21.9.22. This is the start of the first project in Odin, known as odin-recipes. We will create a basic webpage using HTML only.
